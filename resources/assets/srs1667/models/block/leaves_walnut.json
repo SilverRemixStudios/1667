@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "srs1667:block/leaves_walnut"
+    }
+}

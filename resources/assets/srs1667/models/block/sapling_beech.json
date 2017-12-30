@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "srs1667:block/sapling_beech"
+    }
+}
