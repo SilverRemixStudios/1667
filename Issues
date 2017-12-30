@@ -1,0 +1,28 @@
+KNOWN ISSUES
+    WIP 1667
+Ores Not Rendering Correctly
+    -Ores appear correctly defined and named
+    -Place as correct block, pickup as correct block
+    -Block renders texture in hand, GUI and ItemFram
+    -Does Not Render Correctly when Placed in World
+    
+Saplings
+    all variants are registered and textured
+    Only places Redwood and Maple Variety
+    Do Not grow into full trees, vanish after bonemealing
+    Issues appeared after adding models??
+    
+Leaves
+    similar to Saplings, only place Redwood and Maple Variety
+    not sure if bug: Placed leaves decay like wild ones
+    
+Ox Babies do not Spawn as small Oxen
+
+Food not being registered in the game, Does not appear in creative or JEI
+
+
+NEED UPDATE
+ -Final Texturing, and Implements, Mod Is WIP
+ 
+ -AI and behaviours of Ghost
+ -AI and behaviours of Granny
