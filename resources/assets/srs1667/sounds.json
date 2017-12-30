@@ -1,0 +1,8 @@
+{
+    "blocks.melonlaugh":
+    {
+      "category": "block",
+      "subtitle": "block.melonlaugh",
+      "sounds": [{ "name": "srs1667:blocks/melonlaugh", "stream" : true}]
+    }
+}
