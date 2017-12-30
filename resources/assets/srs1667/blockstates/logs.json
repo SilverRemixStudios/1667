@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "axis=y,variant=beech": { "model": "srs1667:log_beech" },
+        "axis=z,variant=beech": { "model": "srs1667:log_beech", "x": 90 },
+        "axis=x,variant=beech": { "model": "srs1667:log_beech", "x": 90, "y": 90 },
+        "axis=none,variant=beech": { "model": "srs1667:log_beech" },
+        
+        "axis=y,variant=maple": { "model": "srs1667:log_maple" },
+        "axis=z,variant=maple": { "model": "srs1667:log_maple", "x": 90 },
+        "axis=x,variant=maple": { "model": "srs1667:log_maple", "x": 90, "y": 90 },
+        "axis=none,variant=maple": { "model": "srs1667:log_maple" },
+        
+        "axis=y,variant=redwood": { "model": "srs1667:log_redwood" },
+        "axis=z,variant=redwood": { "model": "srs1667:log_redwood", "x": 90 },
+        "axis=x,variant=redwood": { "model": "srs1667:log_redwood", "x": 90, "y": 90 },
+        "axis=none,variant=redwood": { "model": "srs1667:log_redwood" },
+        
+        "axis=y,variant=walnut": { "model": "srs1667:log_walnut" },
+        "axis=z,variant=walnut": { "model": "srs1667:log_walnut", "x": 90 },
+        "axis=x,variant=walnut": { "model": "srs1667:log_walnut", "x": 90, "y": 90 },
+        "axis=none,variant=walnut": { "model": "srs1667:log_walnut" }
+    }
+}
+

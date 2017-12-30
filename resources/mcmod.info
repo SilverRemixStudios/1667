@@ -1,0 +1,16 @@
+[
+{
+  "modid": "SRS1667",
+  "name": "1667 Mod",
+  "description": "A Low-Tech Minecraft mod, introducing the beginning of Automation.",
+  "version": "${0.1}",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SilverRemix"],
+  "credits": "SilverRemix",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

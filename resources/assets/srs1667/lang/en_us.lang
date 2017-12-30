@@ -1,0 +1,74 @@
+itemGroup.1667tab = 1667
+
+entity.ox.name=Ox
+entity.ghost.name=Ghost
+entity.granny.name=Grandma
+
+item.ingot_copper.name=Copper Ingot
+item.ingot_silver.name=Silver Ingot
+item.ingot_steel.name=Steel Ingot
+item.ingot_electrum.name=Electrum Ingot
+item.ingot_vibrant.name=Vibrant Alloy Ingot
+item.ingot_mythril.name=Mythril Ingot
+
+item.walnut.name=Walnut
+item.peanut.name=Peanut
+item.strawberry.name=Strawberry
+item.corn.name=Corn
+item.pbj.name=PeanutButter & Jelly Sandwich
+item.oxtail.name=Oxtail
+item.cooked_oxtail.name=Roasted Oxtail
+item.cheesecake.name=Cheesecake
+item.grannycookie.name=Grandma's Cookies
+item.cookiedough.name=Grandma's Cookie Dough
+item.brownie.name=Space Brownie
+
+item.hemp.name=Hemp
+item.twine.name=Twine
+item.rope.name=Rope
+item.cloth.name=Hemp Cloth
+item.sail.name=Sail
+
+item.queenbee.name=Queen Bee
+item.honey.name=Honey
+item.honeycomb.name=Honey Comb
+item.wax.name=Bee's Wax
+
+item.flour.name=Flour
+item.ink.name=Ink
+item.molasses.name=Molasses
+
+tile.melon_lantern.name=Melon O'Lantern
+
+tile.block_copper.name=Copper Block
+tile.ore_overworld_copper.name=Copper Ore
+tile.ore_nether_copper.name=Nether Copper Ore
+tile.ore_end_copper.name=End Copper Ore
+
+tile.ore_overworld_silver.name=Silver Ore
+tile.ore_nether_silver.name=Nether Silver Ore
+tile.ore_end_silver.name=End Silver Ore
+
+
+tile.planks_beech.name=Beech Planks
+tile.log_beech.name=Beech Log
+tile.leaves_beech.name=Beech Leaves
+tile.sapling_beech.name=Beech Sapling
+
+
+tile.planks_maple.name=Maple Planks
+tile.log_maple.name=Maple Log
+tile.leaves_maple.name=Maple Leaves
+tile.sapling_maple.name=Maple Sapling
+
+
+tile.planks_redwood.name=Redwood Planks
+tile.log_redwood.name=Redwood Log
+tile.leaves_redwood.name=Redwood Leaves
+tile.sapling_redwood.name=Redwood Sapling
+
+
+tile.planks_walnut.name=Walnut Planks
+tile.log_walnut.name=Walnut Log
+tile.leaves_walnut.name=Walnut Leaves
+tile.sapling_walnut.name=Walnut Sapling

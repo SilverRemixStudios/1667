@@ -1,0 +1,16 @@
+{
+    "variants": 
+    {
+        "stage=0,variant=beech": { "model": "srs1667:sapling_beech" },
+        "stage=1,variant=beech": { "model": "srs1667:sapling_beech" },
+        
+        "stage=0,variant=maple": { "model": "srs1667:sapling_maple" },
+        "stage=1,variant=maple": { "model": "srs1667:sapling_maple" },
+        
+        "stage=0,variant=redwood": { "model": "srs1667:sapling_redwood" },
+        "stage=1,variant=redwood": { "model": "srs1667:sapling_redwood" },
+        
+        "stage=0,variant=walnut": { "model": "srs1667:sapling_walnut" },
+        "stage=1,variant=walnut": { "model": "srs1667:sapling_walnut" }
+    }
+}

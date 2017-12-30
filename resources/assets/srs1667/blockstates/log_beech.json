@@ -1,0 +1,8 @@
+{
+    "variants": {
+                "variant=none": { "model": "srs1667:log_beech" },
+        "variant=y": { "model": "srs1667:log_beech" },
+        "variant=z": { "model": "srs1667:log_beech", "x": 90 },
+        "variant=x": { "model": "srs1667:log_beech", "x": 90, "y": 90 }
+    }
+}

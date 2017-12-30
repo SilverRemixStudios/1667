@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "check_decay=true,decayable=true,variant=beech": { "model": "srs1667:leaves_beech" },
+        "check_decay=true,decayable=false,variant=beech": { "model": "srs1667:leaves_beech" },
+        "check_decay=false,decayable=true,variant=beech": { "model": "srs1667:leaves_beech" },
+        "check_decay=false,decayable=false,variant=beech": { "model": "srs1667:leaves_beech" },
+        
+        "check_decay=true,decayable=true,variant=maple": { "model": "srs1667:leaves_maple" },
+        "check_decay=true,decayable=false,variant=maple": { "model": "srs1667:leaves_maple" },
+        "check_decay=false,decayable=true,variant=maple": { "model": "srs1667:leaves_maple" },
+        "check_decay=false,decayable=false,variant=maple": { "model": "srs1667:leaves_maple" },
+        
+        "check_decay=true,decayable=true,variant=redwood": { "model": "srs1667:leaves_redwood" },
+        "check_decay=true,decayable=false,variant=redwood": { "model": "srs1667:leaves_redwood" },
+        "check_decay=false,decayable=true,variant=redwood": { "model": "srs1667:leaves_redwood" },
+        "check_decay=false,decayable=false,variant=redwood": { "model": "srs1667:leaves_redwood" },
+        
+        "check_decay=true,decayable=true,variant=walnut": { "model": "srs1667:leaves_walnut" },
+        "check_decay=true,decayable=false,variant=walnut": { "model": "srs1667:leaves_walnut" },
+        "check_decay=false,decayable=true,variant=walnut": { "model": "srs1667:leaves_walnut" },
+        "check_decay=false,decayable=false,variant=walnut": { "model": "srs1667:leaves_walnut" }
+    }
+}
