@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "variant=silver": { "model": "srs1667:block/ore_nether_silver" },
+        "variant=copper": { "model": "srs1667:block/ore_nether_copper" }
+    }
+}

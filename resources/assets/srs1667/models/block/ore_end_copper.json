@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "srs1667:block/ore_end_copper"
+    }
+}

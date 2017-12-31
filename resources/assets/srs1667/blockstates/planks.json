@@ -1,0 +1,9 @@
+{
+    "variants": 
+    {
+        "variant=beech": { "model": "srs1667:planks_beech" },
+        "variant=maple": { "model": "srs1667:planks_maple" },
+        "variant=redwood": { "model": "srs1667:planks_redwood" },
+        "variant=walnut": { "model": "srs1667:planks_walnut" }
+    }
+}

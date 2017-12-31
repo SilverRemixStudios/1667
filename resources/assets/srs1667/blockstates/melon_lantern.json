@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": { "model": "srs1667:melon_lantern" },
+        "facing=north": { "model": "srs1667:melon_lantern" },
+        "facing=south": { "model": "srs1667:melon_lantern", "y": 180 },
+        "facing=west":  { "model": "srs1667:melon_lantern", "y": 270 },
+        "facing=east":  { "model": "srs1667:melon_lantern", "y": 90 }
+    }
+}
